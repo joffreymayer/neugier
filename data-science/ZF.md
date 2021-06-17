@@ -6,7 +6,7 @@
 
 ### Install a Package via `Pip` in a Jupyter Notebook
 
-1) [Type in the following Code inside a Cell on your currently used Jupyter Notebook (0:58-1:27)](https://www.youtube.com/watch?v=OJvnUQrPluE&t=0m58s)
+- [Type in the following Code inside a Cell on your currently used Jupyter Notebook (0:58-1:27)](https://www.youtube.com/watch?v=OJvnUQrPluE&t=0m58s)
 
 ### Create a Virtual environment
 
