@@ -4,6 +4,10 @@
 
 ## My Python Skills
 
+### Install a Package via `Pip` in a Jupyter Notebook
+
+1) [Type in the following Code inside a Cell on your currently used Jupyter Notebook (0:58-1:27)](https://www.youtube.com/watch?v=OJvnUQrPluE&t=0m58s)
+
 ### Create a Virtual environment
 
 1) [The Command that you need to type in on your terminal (1:32-2:35)](https://www.youtube.com/watch?v=4jt9JPoIDpY&t=1m32s)
