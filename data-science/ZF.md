@@ -1,8 +1,10 @@
+## Github Skills
+
+- [Move &amp; Re-Name Files in Github](https://github.blog/2013-03-15-moving-and-renaming-files-on-github/)
+
 ## My Python Skills
----
 
 ### Create a Virtual environment
----
 
 1) [The Command that you need to type in on your terminal (1:32-2:35)](https://www.youtube.com/watch?v=4jt9JPoIDpY&t=1m32s)
 2) [Activate a virtual environment when you want to start working on it right away OR in a later point in time | Mac &amp; Windows Option (3:18-5:47)](https://www.youtube.com/watch?v=4jt9JPoIDpY&t=3m18s)
