@@ -1,6 +1,6 @@
 ## Github Skills
 
-- [Move &amp; Re-Name Files in Github](https://github.blog/2013-03-15-moving-and-renaming-files-on-github/)
+- [Move &amp; Re-Name Files in Github (only possible on Desktop-Version of the Github-Webseite!)](https://github.blog/2013-03-15-moving-and-renaming-files-on-github/)
 
 ## My Python Skills
 
