@@ -47,6 +47,8 @@ Note that you need to have `plotly` installed to be able to do this:
 pd.set_option(‘plotting.backend’, ‘plotly’)
 ```
 
+- <ins>Quelle</ins>: [Hier](https://towardsdev.com/tricks-and-best-practices-from-kaggle-794a5914480f)
+
 ### Data Exploration - Make a (Lower Triangular) Correlation Matrix
 
 ```
@@ -94,3 +96,5 @@ missing_props[missing_props > 0].sort_values(ascending=False
 > Why you should always display the proportion of missings in a column?
 
 By knowing the proportion of the missing values, you can make a decision as to **whether to drop or impute values for a column with missing values**.
+
+- <ins>Quelle</ins>: [Hier](https://towardsdev.com/tricks-and-best-practices-from-kaggle-794a5914480f)
