@@ -13,3 +13,36 @@
 1) [The Command that you need to type in on your terminal (1:32-2:35)](https://www.youtube.com/watch?v=4jt9JPoIDpY&t=1m32s)
 2) [Activate a virtual environment when you want to start working on it right away OR in a later point in time | Mac &amp; Windows Option (3:18-5:47)](https://www.youtube.com/watch?v=4jt9JPoIDpY&t=3m18s)
 3) [De-Activate the virtual environment (5:48-6:24](https://www.youtube.com/watch?v=4jt9JPoIDpY&t=5m48s)
+
+### Code - Correlation Matrix
+
+```
+houses = pd.read_csv('data/melb_data.csv')
+
+# Calculate pairwise-correlation
+matrix = houses.corr()
+
+# Create a mask
+mask = np.triu(np.ones_like(matrix, dtype=bool))
+
+# Create a custom diverging palette
+cmap = sns.diverging_palette(250, 15, s=75, l=40,
+                             n=9, center="light", as_cmap=True)
+
+plt.figure(figsize=(16, 12))
+
+sns.heatmap(matrix, mask=mask, center=0, annot=True,
+             fmt='.2f', square=True, cmap=cmap)
+
+plt.show();
+```
+
+> What does the correlation matrix do?
+
+**It shows the _pairwise_ correlation between your different variables.**
+
+> Why do you need a correlation matrix?
+
+To get a **quick overview** of how all your columns are pairwisely correlated with each other. It helps to do _feature engineering_.
+
+- <ins>Quelle</ins>: [Hier](https://towardsdev.com/tricks-and-best-practices-from-kaggle-794a5914480f)
