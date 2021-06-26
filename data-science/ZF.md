@@ -14,7 +14,7 @@
 2) [Activate a virtual environment when you want to start working on it right away OR in a later point in time | Mac &amp; Windows Option (3:18-5:47)](https://www.youtube.com/watch?v=4jt9JPoIDpY&t=3m18s)
 3) [De-Activate the virtual environment (5:48-6:24](https://www.youtube.com/watch?v=4jt9JPoIDpY&t=5m48s)
 
-### Code - Correlation Matrix
+### Code - (Lower Triangular) Correlation Matrix
 
 ```
 houses = pd.read_csv('data/melb_data.csv')
@@ -44,5 +44,9 @@ plt.show();
 > Why do you need a correlation matrix?
 
 To get a **quick overview** of how all your columns are pairwisely correlated with each other. It helps to do _feature engineering_.
+
+> Why should it be lower-triangular?
+
+Because a correlation matrix is **symmetrical along the main diagonal**, you only need the lower triangular. Also, since the diagonal only shows the correlation of a feature with itself (e.g. always shows a correlation of 1), we don't need the diagonal, but *only the lower-diagonal*. 😄
 
 - <ins>Quelle</ins>: [Hier](https://towardsdev.com/tricks-and-best-practices-from-kaggle-794a5914480f)
