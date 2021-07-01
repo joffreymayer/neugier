@@ -1,13 +1,3 @@
-## Computer-Programmierung Skills
-
-### Flow of a Program
-
-> What are blocks of Code?
-
-Blocks of Code are written in {...}. Dabei unterscheidet man 2 Kategorien:
-
-1) A block of Code that only <ins>runs once</ins>.
-
 ## Github Skills
 
 - [Move &amp; Re-Name Files in Github (only possible on Desktop-Version of the Github-Webseite!)](https://github.blog/2013-03-15-moving-and-renaming-files-on-github/)
