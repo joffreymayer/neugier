@@ -6,4 +6,4 @@
 
 ## CSS
 
-- Selektoren-Kombinationen: [Liste mit Beispielen zu den häufigsten Selektor-Kombinationen (4:33-6:33)](https://www.youtube.com/watch?v=1PnVor36_40&list=PLZlA0Gpn_vH-cEDOofOujFIknfZZpIk3a&index=7&t=4min33s)
+- How to work with CSS (Web-Dev-Simplified: [Liste mit Beispielen zu den häufigsten Selektor-Kombinationen (4:33-6:33)](https://www.youtube.com/watch?v=1PnVor36_40&list=PLZlA0Gpn_vH-cEDOofOujFIknfZZpIk3a&index=7&t=4min33s)
