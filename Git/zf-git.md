@@ -92,11 +92,16 @@ Look at [youtube-videos from Coding Train](https://youtu.be/oPpnCh7InLY).
 - `git checkout new_branch` == this will tell `Git`: "ah, he wants to go into the branch called 'new_branch'".
 - `git branch` == this will give you a list of all the branches you ave created locally. Furthermore, it will tell you on which branch you currently work on.
 
-> How to merge the changes you made on a separate branch to the `master-branch` (= main branch)?
-		
+> Create &amp; working on a new branch?
+
 1) `git branch new_branch` == this will **create a branch** called `new_branch` locally on your computer.
 2) `git checkout new_branch` == You will tell `Git`: "I now want to **work on this newly created branch** called 'new_branch'".
-3) `git checkout master` == *After* you are happy with the changes you did in `new_branch` you will need to prepare for the merging by **switching to your main-branch**, which is the `master`-branch.
-4) `git merge new_branch` == Since you currently are in the `master-branch`, Git will know that you want to **merge** `new_branch` <u>into</u> the `master-branch`.
+3) `git add Your_New_Folder_OR_File_Name_Here` == *After* you are happy with the changes you made on your branch, you need to tell Git, that you want to "add" this new folder / File to the Git-Workflow.
+4) `git commit -m "new file / folder added` == Next, we save the changes by making a `commit` with a custom-description of what you did.
+
+> How to merge the changes you made on a separate branch to the `master-branch` (= main branch)?
+		
+1) `git checkout master` == *After* you are happy with the changes you did in `new_branch` you will need to prepare for the merging by **switching to your main-branch**, which is the `master`-branch.
+2) `git merge new_branch` == Since you currently are in the `master-branch`, Git will know that you want to **merge** `new_branch` <u>into</u> the `master-branch`.
 		
 That was it 😎
