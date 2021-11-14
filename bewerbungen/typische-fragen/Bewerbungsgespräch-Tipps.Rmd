@@ -1,0 +1,174 @@
+---
+title: 'Vorbereitungen Bewerbungsgespräch: Tipps & Tricks'
+author: "Joffrey Mayer"
+date: "1/14/2021"
+linestretch: 1.5 # 1.5 Zeilenabstand
+output:
+  html_document: default
+  pdf_document: default
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Wie kann ich ein Bewerbungsgespräch mit Erfolg überstehen?
+
+Es gibt eine **Checkliste**, die man erledigen sollte, *bevor* das Bewerbungsgespräch stattfindet:
+
+- [ ] Lese die Internetseite des Unternehmens, **insbesondere** ist wichtig, dass sich der Bewerber mit dem Unternehmen identifizieren kann. Kurzgefasst: Die Leute, welche dich einstellen, **wollen vorallem sehen, dass du für das Unternehmen brennst**!
+  - **Deine Aufgabe: Finde Gründe, warum du für die SBB brennst!**
+- [ ] Bei der Selbstpräsentation von dir sollst du nicht bloss deine Bewerbung nochmals runterlabern, weil der Recruiter hat deinen Text ja gelesen.
+  - **Deine Aufgabe: Überlege dir im Vorhinein, wie du dich präsentierst.**
+  - **Achtung**: Auch der Recruiter hat sich auf das Gespräch vorbereitet, nicht nur du!
+- [ ] **Fast am Wichtigsten**: Der Recruiter will von dir wissen, der Grund, warum dich die Stelle motiviert.
+  - **Deine Aufgabe: Warum motiviert dich diese Stelle?**
+- [ ] Zeige deine Kompetenzen anhand von Beispielen aus vergangenen Stellen.
+  - **Deine Aufgabe: die erstellten Arbeiten ungefähr auf Vor- & Nachteile besprechen können.**
+- [ ] An Bewerbungsgespräch soll man den zukünftigen Arbeitgeber auch Fragen stellen. Das zeigt Interesse aus meiner Seite und kommt sehr gut an.
+  - **Deine Aufgabe**: Nachdem du alles auf der Webseite gelesen hast, solltest du dir eine Liste von **Fragen notieren, die du dann den Recruiter am Bewerbungsgespräch stellen kannst**. Allerdings kommen auch **spontane Fragen** in
+einem Gespräch gut an Platz. Das zeigt auch symbolisch eine ordentliche Vorbereitung und wirkliches Interesse.
+- [ ] Unbedingt sein Schreibzeug / Tablet mitnehmen, wenn einem spontan Fragen in den Sinn kommen.
+- [ ] Passend für den jeweiligen Job kleiden. Ein gepflegtes Erscheinen ist bei jedem Vorstellungsgespräch ein Muss. 
+  - **Deine Aufgabe: Finde heraus, ob eine Kravatte + Anzug unbedingt notwendig sind an einem Bewerbungsgespräch.** Gewisse Unternehmen finden es besser, Andere wiederum nicht.
+- [ ] **NIE** zu spät an ein Bewerbungsgespräch erscheinen!
+- [ ] Sei nicht "Fake". Es wäre ja blöd, weil du bist mit diesen Leuten dann eine sehr lange Zeit zusammen. 
+
+# Welche Interviewer stellen welche Fragen?
+
+- Je nachdem, welche Position der Interviewer hat (z.B. HR-Abreilung, Vorgesetzter oder zukünftiger Mitarbeiterkollege), werden dir unterschiedliche Typen von Fragen stellen. Hier eine Liste:
+
+![Unterschiediche Arten von Frage, je nach Positon des Interviewers](bilder/typ-fragen.png)
+
+## Typische Fragen, welche an einem Bewerbungsgespräch auftauchen:
+
+- Aus welchen Gründen wollen Sie ausgerechnet bei uns anfangen?
+  - **Hintergrund**: Die Recruiter wollen sehen, dass du nicht einfach aus Zufall bei diesem Gespräch gelandet bist, sondern du dich gründlich informiert hast.
+- Wieso meinen Sie, dass Sie mit Ihrem Hintergrund zu dieser Position passen?
+- Wo sehen Sie sich in 5 Jahren?
+  - **Hintergrund**: Wollen Sie überhaupt in diesem Unternehmen diese Position betreiben oder ist es nur ein Sprungbrett für höheres? --> bleibe konsistent und zeige, dass du dich in dieser Position entwickeln willst.
+- Würden Sie heute nochmals denselben Berufsweg einschalgen?
+  - **Hintergrund**: Heimlich wollen die Recruiter wissen, ob du dich im Berufsleben vielleicht verlaufen hast und deshalb ein demotivierter Typ. --> Zeige, dass du vernünftige Entscheidungen triffst.
+- Was sind deine (grössten) Stärken, was sind deine (grössten) Schwächen?
+  - **Hintergrund**: Achte darauf, dass du keine Schwächen nennst, die unmittelbar mit der Stelle etwas zu tun hat. Und nenne Stärken, die mit der Stelle zu tun haben.
+- Welches war der grösste Erfolg Ihres Lebens?
+  - **Hintergrund**: Stelle hier berufliche (nicht private Erfolge) in den Vordergrund. 
+- Welcher war der grösste Fehler Ihres Lebens?
+  - **Hintergrund**: Nenne Fehler, die weit weit weg in der Vergangenheit liegen und zeige, dass du diesen Fehler korrigiert hast.
+- In welchen Bereichen Ihrer Arbeit würden Sie sich gerne weiterentwickeln?
+  - **Hintergrund**: Die Recruiter wollen deine Schwächen offengelegt bekommen. Nenne **auf keinen Fall** Felder die direkt mit der Position zu tun haben. Die Firma will nicht ihr Fortbildungssponsor werden, sondern erwartet, dass ich schon Vieles kann. 
+- Was könnte Ihr Chef nach Meinung Ihrer Kollegen besser machen?
+  - **Hintergrund**: Sage nicht, was die Kollegen denken, das wird als Petzer angesehen. Sage, was du denkst und dass du mit dem Chef persönlich reden wirst, falls es ein Problem gibt. --> Zeigt, dass du ein loyaler Mensch bist.
+- Haben Sie noch weitere Bewerbungen am Laufen?
+  - **Hintergrund**: Sage nicht, "nein, ich habe mich nur bei Ihnen beworben". Sage lieber, dass du dich bei 2-3 anderen beworben hast aus Diversifikationsgründen, aber sage auch, aus welchen Grund nun die Stelle deine Präferenz hat.
+- Wo lag Ihr altes Gehalt und was möchten Sie bei uns verdienen?
+  - **Hintergrund**: Wechseln ist immer ein Risiko, verhandle aber 10-15% mehr Lohn.
+- Warum bist du motiviert, bei der SBB zu arbeiten?
+
+## Fragen in der Kategorie _Über Dich_
+
+– Beschreiben Sie sich selbst.
+
+– Wie gehen Sie bei der Stellensuche vor?
+
+– Was zeichnet Ihre ideale Stelle aus?
+
+– Welches sind Ihre wichtigsten Auswahlkriterien?
+
+– Wie treffen Sie die endgültige Entscheidung?
+
+– Wenn Sie sich mit drei Adjektiven beschreiben könnten, welche wären diese?
+
+– Woher wissen Sie, dass Sie wirklich das sind, was Sie zu sein behaupten?
+
+– Welches sind Schwächen, von denen Sie wissen, dass Sie an Ihnen arbeiten müssen?
+
+– Wie würde Ihr Umfeld Sie beschreiben?
+
+– Welche Stärken / Schwächen schätzen / stören Sie bei anderen Menschen?
+
+## Fragen in der Kategorie _Über Deine berufliche Ziele_
+
+– Warum haben Sie sich bei unserem Unternehmen beworben?
+
+– Was für ein Bild haben Sie von unserem Unternehmen?
+
+– Worauf haben Sie in unserer Stellenanzeige besonders reagiert?
+
+– Was halten Sie von diesem Stellenangebot?
+
+– Was erwarten Sie von dieser Arbeit?
+
+– Welchen Mehrwert können Sie uns bringen?
+
+– Welches sind Ihre beruflichen Pläne?
+
+– Welche Fähigkeiten benötigt man für diese Stelle?
+
+– Was ändert sich für Sie dadurch, dass Sie bei uns zu arbeiten beginnen?
+
+– Wie sehen Sie Ihre eigene Weiterentwicklung?
+
+– Was erwarten Sie von Ihrem nächsten Vorgesetzten?
+
+– Arbeiten Sie lieber alleine oder im Team?
+
+– Beschreiben Sie das menschliche Umfeld, das Sie antreffen möchten.
+
+– Wie reagieren Sie, wenn Sie mit Ihren Vorgesetzten nicht einverstanden sind?
+
+– Wie gehen Sie mit Kritik um?
+
+– Können Sie Befehle leicht annehmen?
+
+– Welches sind für Sie die schwierigsten Entscheidungen?
+
+– Was haben Sie für Lohnvorstellungen?
+
+– Wie steht es mit Ihrer Mobilität?
+
+## Fragen in der Kategorie _Über Deine Ausbildung_
+
+– Warum haben Sie sich für diese Ausbildung entschieden?
+
+– Waren Sie in Vereinen aktiv? Wenn ja, wo und wie?
+
+– Warum haben Sie nicht noch weiter studiert?
+
+– Und wenn Sie noch einmal von vorne anfangen könnten?
+
+– Möchten Sie eine andere Ausbildung machen?
+
+– Wenn Sie Ihren Studiengang ändern könnten, was würden Sie verändern?
+
+– Erzählen Sie etwas über Ihre Studienarbeiten.
+
+– Haben Sie einen Aufenthalt im Ausland verbracht
+
+## Fragen in der Kategorie _Über Deine Berufserfahrung_
+
+– Was haben Ihnen Ihre Erfahrungen gebracht?
+
+– Mit welchen Schwierigkeiten mussten Sie umgehen?
+
+– Was war Ihr grösster Erfolg / Misserfolg?
+
+– Erzählen Sie uns etwas über die «Lücken» in Ihrem Lebenslauf.
+
+– Welche Entscheidungen mussten Sie bei Ihren früheren Arbeitsstellen treffen?
+
+– Wie war Ihr Verhältnis zu Ihren Vorgesetzten? / Zu Ihren Arbeitskollegen? / Zu Ihren Mitarbeitenden?
+
+– Wie sehen Sie Ihre eigene Entwicklung?
+
+– Welche Charaktereigenschaften haben Ihnen gemäss Ihrer eigenen Erfahrungen geholfen und welche geschadet?
+
+## Fragen in der Kategorie _Über Deine Praktikas / Ferienjobs_
+
+– Wie haben Sie dieses Praktikum gefunden?
+
+– Was hat es Ihnen gebracht?
+
+– Welche Schwierigkeiten sind Ihnen begegnet?
+
+– Welche Erfahrung war für Sie am interessantesten? (Struktur, Industriezweig, Beziehungen, Arbeit, etc.)
