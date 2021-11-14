@@ -1,0 +1,39 @@
+---
+title: "Video Interview"
+author: "Joffrey Mayer"
+date: "11/14/2021"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Video-Interview
+
+## Set-Up
+
+- Habe meine **E-Mail & What's App ausgeschaltet**.
+- Habe sichergestellt, dass ich **genügend gute Internet-Verbindung** hatte.
+- Habe ein **Hemd angezogen**, damit ich "präsentabel" war (Informatik-Stelle).
+- Habe aufgepasst, dass ich **nicht irgendwelcher Schrott im Hintergrund** des Videos zu sehen war.
+
+## Setting des Interviews
+
+- **3 Fragen** wurden gestellt.
+- Man konnte - pro Frage - **maximal 2 minütige** Antwort geben.
+- Man hatte eine **Überlegungszeit von 40s pro Frage**.
+  - <u>Achtung</u>: Es gab ein Countdown, der von 10s ab runterzählte. Wenn man 40s Überlegungszeit wollte, musst man auf den Knopf "Ich will 40s mehr Zeit" drücken, ansonsten ging man sofort zur 2 minütigen Aufgabe über!
+
+## Gestellte Fragen
+
+1) Wenn Sie mit einer berühmten Person Mittagessen gehen könnten, mit wem wäre dies?
+2) Welche **Stärken &amp; Schwächen** würden Ihre Freunde aufzählen?
+3) Weshalb meinen Sie, sind Sie ein guter Match mit der SBB?
+
+## Antworten
+
+1) <u>Antwort 1</u>: **Vicent Ducrot (aktueller CEO der SBB)**, weil er scheint ein Mensch zu sein, welcher sehr offen ist &amp; der inspiriert. Ich finde es beispielsweise sehr bewunderswert und mutig, dass er jede 3 bis 6 Monate ein Video-Interview mit seinen Mitarbeitern organisiert, um Ihnen jegliche Fragen zu beantworten, ganz gleich welcher Hintergrund diese haben. Es reflektiert auch, dass der Mensch bei der SBB im Zentrum steht, was ich extrem toll finde und deshalb gerne ein Mittagessen mit dem Chef haben würde, um mehr hinter der Person Vicent zu erfahren (und weniger über die Rolle "CEO").
+2) <u>Antwort 2</u>: _Erstens_, **sorgfältiger Mensch**, der die Materie gerne bis ins letzte Detail versteht. Bei den Gymi-Hausaufgaben in Mathe wollten immer alle meinen Rechnungsweg abschreiben. Ich denke, es ist auch eine wichtige Eigenchaft beim Codieren &amp; Arbeiten in Teams. Aus Erfahrung weiss ich, dass andere Data Scientisten mit guter Dokumentation sich schneller zurecht finden und deshalb das Projekt schneller &amp; effizienter durchgeführt werden kann. _Zweitens_ (und drittens gleichzeitig), würden meine Kollegen mich als innovativ &amp; neugierig beschreiben. So habe ich beispielsweise immer meine Kollegen genervt, als ich eine Webseite für meinen Vater erstellt hatte, um Sie bezüglich der User-Experience zu fragen: "hey, wenn du auf diesen Knopf drückst, verstehst du dann, was passiert?". Bezüglich meiner **Schwäche**, würden meine Famielien-Mitglieder &amp; Freunde vor allem hervorheben, dass ich zu empathisch bin / zu nett, was dazu führt, dass ich manchmal die anderen zu fest im Fokus lege und mich dabei selbst vergesse.
+3) <u>Antwort 3</u>: Im Praktikum, welches ich bei der SBB absolviert habe, konnte ich bereits diverse Anforderungen, welche im Career-Starter Programm gefragt sind, bereits ein erstes Mal begegnen, wie zum Beispiel das Sammeln, Selektieren und Analysieren von Daten, aber auch die Git-Versionierung. Ich denke, hier könnte die SBB - aber auch ich - von der bereits getätigten "Investition* in meiner Person von meinen Kenntnissen profitieren. 
+
